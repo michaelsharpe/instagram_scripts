@@ -1,0 +1,29 @@
+Notes
+
+- Go to specified user
+- look at each post for the past 30 posts
+- grab list of all users from the post that commented
+- check user to see if they fall within the range of a "real person"
+- 
+
+Modules
+
+Organize based on page/usage?
+
+- User analyzer
+    - checks a single user
+    - determines a users "realness" base don follower and following quantities
+    - checks level of engagement
+    - number of photos on account
+
+- Post analyzer
+    - Checks a single post
+    - Checks number of likes, number of comments
+    - Like : comment ratio
+    - List users who commented
+    - check reality of commenting users
+    - 
+
+Find influencers
+- people with high followers but also large numbers of likes on a post
+
